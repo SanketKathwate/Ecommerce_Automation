@@ -1,0 +1,23 @@
+package Ecommerce_Automation.Ecommerce_Automation;
+
+import static org.junit.jupiter.api.Assertions.assertTrue;
+
+import org.junit.jupiter.api.Test;
+
+/**
+ * Unit test for simple App.
+ */
+public class AppTest {
+
+    /**
+     * Rigorous Test :-)
+     */
+    @Test
+    public void shouldAnswerWithTrue() {
+        assertTrue(true);
+        
+        System.out.println("Hii");
+        System.out.println("Hii");
+        System.out.println("Hii");
+    }
+}
